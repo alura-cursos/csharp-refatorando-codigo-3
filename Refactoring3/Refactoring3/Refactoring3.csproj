@@ -61,6 +61,16 @@
     <Compile Include="Aula2\R47.ReplaceParameterWMethodCall\depois\Cliente.cs" />
     <Compile Include="Aula2\R48.IntroduceParameterObject\antes\HotelFazenda.cs" />
     <Compile Include="Aula2\R48.IntroduceParameterObject\depois\HotelFazenda.cs" />
+    <Compile Include="Aula3\R49.RemoveSettingMethod\antes\ContaCorrente.cs" />
+    <Compile Include="Aula3\R49.RemoveSettingMethod\depois\ContaCorrente.cs" />
+    <Compile Include="Aula3\R50.HideMethod\antes\HotelFazenda.cs" />
+    <Compile Include="Aula3\R50.HideMethod\depois\HotelFazenda.cs" />
+    <Compile Include="Aula3\R51.ReplaceConstructorWithFactoryMethod\antes\Funcionario.cs" />
+    <Compile Include="Aula3\R51.ReplaceConstructorWithFactoryMethod\depois\Funcionario.cs" />
+    <Compile Include="Aula3\R52.ReplaceErrorCodeWithException\antes\ContaBancaria.cs" />
+    <Compile Include="Aula3\R52.ReplaceErrorCodeWithException\depois\ContaBancaria.cs" />
+    <Compile Include="Aula3\R53.ReplaceExceptionwithTest\antes\ContaCorrente.cs" />
+    <Compile Include="Aula3\R53.ReplaceExceptionwithTest\depois\ContaCorrente.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -80,6 +90,14 @@
     <Content Include="Aula2\R47.ReplaceParameterWMethodCall\depois\ReplaceParameterWMethodCall2.png" />
     <Content Include="Aula2\R48.IntroduceParameterObject\antes\IntroduceParameterObject.png" />
     <Content Include="Aula2\R48.IntroduceParameterObject\depois\IntroduceParameterObject2.png" />
+    <Content Include="Aula3\R50.HideMethod\antes\HideMethod.png" />
+    <Content Include="Aula3\R50.HideMethod\depois\HideMethod2.png" />
+    <Content Include="Aula3\R51.ReplaceConstructorWithFactoryMethod\antes\ReplaceConstructorWithFactoryMethod.png" />
+    <Content Include="Aula3\R51.ReplaceConstructorWithFactoryMethod\depois\ReplaceConstructorWithFactoryMethod2.png" />
+    <Content Include="Aula3\R52.ReplaceErrorCodeWithException\antes\ReplaceErrorCodeWithException.png" />
+    <Content Include="Aula3\R52.ReplaceErrorCodeWithException\depois\ReplaceErrorCodeWithException2.png" />
+    <Content Include="Aula3\R53.ReplaceExceptionwithTest\antes\antes.png" />
+    <Content Include="Aula3\R53.ReplaceExceptionwithTest\depois\depois.png" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
